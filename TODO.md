@@ -1,11 +1,12 @@
 ARC To Do List
 =
->###### Date format: DD/MM/YYYY
 
+>###### Date format: DD/MM/YYYY
 
 ### To Do
 
-- [ ] Create README.md File
+- [ ] Create [README](https://github.com/CyberCDN/ARC/blob/main/README.md] File
+
 - [ ] Work on the website UI ~TBA #Design @MrMurphyOfficial 
 - [ ] Build SQL Database Format ~1d #Enchancement  
   - [ ] Run Test-Examples/Benchmark ~1d #Testing  
@@ -17,4 +18,5 @@ ARC To Do List
 
 ### Done ✓
 
-- [x] Create TODO.md File [16/11/2020]
+- [x] Create [TODO](https://github.com/CyberCDN/ARC/blob/main/TODO.md) File  [16/11/2020]
+- [x] Create [LICENSE](https://github.com/CyberCDN/ARC/blob/main/LICENSE.md) File [16/11/2020]
