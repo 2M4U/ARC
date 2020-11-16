@@ -5,7 +5,7 @@ ARC To Do List
 
 ### To Do
 
-- [ ] Create [README](https://github.com/CyberCDN/ARC/blob/main/README.md] File
+- [ ] Create [README](https://github.com/CyberCDN/ARC/blob/main/README.md) File
 
 - [ ] Work on the website UI ~TBA #Design @MrMurphyOfficial 
 - [ ] Build SQL Database Format ~1d #Enchancement  
