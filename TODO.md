@@ -1,5 +1,7 @@
 ARC To Do List
 =
+>###### Date format: DD/MM/YYYY
+
 
 ### To Do
 
@@ -15,4 +17,4 @@ ARC To Do List
 
 ### Done ✓
 
-- [x] Create TODO.md File
+- [x] Create TODO.md File [16/11/2020]
