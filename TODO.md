@@ -10,7 +10,7 @@ ARC To Do List
 
 ### In Progress
 
-- [ ] Work on Github Repo [JIRA-345]  
+- [ ] Work on Bot Structure
 
 
 ### Done ✓
