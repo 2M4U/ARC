@@ -4,7 +4,7 @@
 
 #### *The Next Generation (NextGEN) Verification Discord Bot.*
 #### *Project In **HEAVY** Development*
-> ##### *Keep Up To Date With The Project By Watching Our [To Do List](https://github.com/CyberCDN/ARC/blob/main/TODO.md)*
+<i><small>Keep Up To Date With The Project By Watching Our [To Do List](https://github.com/CyberCDN/ARC/blob/main/TODO.md)</small></i>
 
 * * *
 
