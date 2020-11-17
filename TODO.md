@@ -14,9 +14,11 @@ ARC To Do List
 ### In Progress
 
 - [ ] Work on Bot Structure
+  
 
 
 ### Done ✓
 
-- [x] Create [TODO](https://github.com/CyberCDN/ARC/blob/main/TODO.md) File  [16/11/2020]
+- [x] Add Custom Restart, Shutdown and Connect function. [17/11/2020]
+- [x] Create [TODO](https://github.com/CyberCDN/ARC/blob/main/TODO.md) File [16/11/2020]
 - [x] Create [LICENSE](https://github.com/CyberCDN/ARC/blob/main/LICENSE.md) File [16/11/2020]
