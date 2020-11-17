@@ -7,7 +7,7 @@ Table of Contents
 <!--ts-->
    * [To Do List](#to-do)
    * [In Progress](#in-progress)
-   * [Completed](#done)
+   * [Completed](#done--)
 <!--te-->
 
 ### To Do
