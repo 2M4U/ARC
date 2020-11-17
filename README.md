@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>A.R.C (Anti Raid Cordia)</h1>
+  <h1>A.R.C (Anti Raid Captcha)</h1>
 
 
 #### *The Next Generation (NextGEN) Verification Discord Bot.*
