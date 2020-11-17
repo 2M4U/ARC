@@ -6,7 +6,7 @@ Table of Contents
 =================
 <!--ts-->
    * [To Do List](#to-do)
-   * [In Progress](#in-progress)
+   * [In Progress](#in-progress-)
    * [Completed](#done--)
 <!--te-->
 
