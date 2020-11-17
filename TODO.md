@@ -2,6 +2,13 @@ ARC To Do List
 =
 
 >###### Date format: DD/MM/YYYY
+Table of Contents
+=================
+<!--ts-->
+   * [To Do List](#to-do)
+   * [In Progress](#in-progress)
+   * [Completed](#done)
+<!--te-->
 
 ### To Do
 
