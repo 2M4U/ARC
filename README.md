@@ -8,12 +8,9 @@
 
 * * *
 ###### Date format: DD/MM/YYYY
-Table of Contents
-=================
-<!--ts-->
-   * [To Do List](#ToDo.md)
-   * [ReadMe](#)
-   * [License](#license)
-<!--te-->
+<h2>What and Who is A.R.C?</h2>
+A.R.C otherwise known as Anti-Raid-Captcha is part of the Botcordia Fleet of Bots,<br>
+The main purpose and goal behind A.R.C is to ensure the safety and security of each guild that uses A.R.C,<br> 
+He has a fully-dedicated developer always wanting to improve the security and safety of his fellow Discordians.
 </div>
 
